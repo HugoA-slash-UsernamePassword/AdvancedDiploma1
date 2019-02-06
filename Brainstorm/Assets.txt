@@ -1,0 +1,59 @@
+---------------
+Sprites needed
+---------------
+Player
+Armour (head, shirt, pants)
+Copper sword
+Copper pick
+=Dirt tile set 
+=Dirt tile set (grass)
+=Stone tile set
+?Underground background wall
+Wooden background wall
+Wood
+
+Copper ore
+Sand
+Tower brick
+Tower table
+Tower chair
+Tower door
+
+Crafting table (2x1)
+Grass
+Tree (large asset)
+
+Tower enemies (3)
+Zombie - feather
+Slime - slime
+Sand enemy - sand
+Snow enemy - snow
+Death
+Underground enemies (5)
+Boss (multiple segments)
+
+-----------------
+Mechanics needed
+-----------------
+Player movement
+Auto jump 1 block high
+Block breaking
+Block placement
+Dirt & stone tilemap based on surrounding tiles
+Dropping items
+Picking up items
+Managing inventory
+Equipping armour
+?Changing player sprites on armour equip
+Player attack hit box 
+
+House spawn
+Biome set
+Biome variable height
+Which biome am I in?
+Spawn enemies on edges of screen in empty space.
+Zombie ai
+Death ai
+Cave generation
+Dirt/stone generation
+Ore generation

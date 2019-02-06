@@ -1,0 +1,17 @@
+The map loops around and the day and night cycle moves across the map so that if you go fast enough, you can go to day/night (like the planet is rotating slowly)
+
+Ghosts spawn at night and can go through blocks and easily insta-kill the player, forcing the player to always think about their location.
+
+grass and trees spawn on world gen. Seeds grow into trees after one cycle, so when you return to where you planted them the next day, they will have grown into trees.
+
+3 ores spawn in layers underground, each requiring a pickaxe from the previous layer to mine. I found a few videos on cave generation and i could noise to alternate dirt and stone, with ores replacing solid blocks in a circle.
+
+There would probably be 10-15 enemies that spawn spread around the world
+
+biomes:
+snow surface
+snow undreground
+dirt surface
+dirt underground
+sand surface
+sand underground
